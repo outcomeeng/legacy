@@ -15,8 +15,6 @@ npx skills add outcomeeng/legacy
 
 | Skill | Description |
 | ----- | ----------- |
-| `reviewing-tests` | Foundational test review methodology |
-| `testing` | ALWAYS invoke this skill before writing tests or when learning the testing approach |
 | `decomposing-capability-to-features` | breaking down a capability into features |
 | `decomposing-feature-to-stories` | breaking down a feature into stories |
 | `decomposing-prd-to-capabilities` | breaking down a PRD into capabilities |
@@ -29,6 +27,8 @@ npx skills add outcomeeng/legacy
 | `managing-specs` | creating or organizing specs, capabilities, features, stories, or ADRs |
 | `understanding-specs` | ALWAYS invoke this skill before implementing any work item to load complete context |
 | `committing-changes` | committing changes or when user says "commit" |
+| `reviewing-tests` | Foundational test review methodology |
+| `testing` | ALWAYS invoke this skill before writing tests or when learning the testing approach |
 
 ## License
 
